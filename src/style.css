@@ -1,0 +1,16 @@
+body {
+  background: #f8e8a6;
+  text-align: center;
+}
+
+a {
+  padding: 5px;
+  color: green;
+}
+
+.croissant-pic {
+  width: 700px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
